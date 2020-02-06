@@ -1,2 +1,2 @@
 # test
-It is a test repository for local repo to the remote github repository
+这是本人的第一个测试仓库
